@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f4d04e;
+    font-family: 'Figtree', sans-serif;
+}
+
+.container{
+    background-color: #ffffff;
+    padding: 1.2rem;
+    max-width: 375px;
+    border-radius: 1.5rem;
+    margin: 19vh auto;
+    border: 0.2px solid;
+    box-shadow: 9px 7px 0px 3px #000000;
+}
+img{
+    margin-bottom: 0.7rem;
+    border-radius: 0.6rem;
+    width: 100%;
+}
+
+.btn {
+    background-color: #f4d04e;
+    font-weight: 800;
+    padding: 0.2rem 0.5rem;
+    width: fit-content;
+    margin-bottom: 0.7rem;
+    color: #121212;
+}
+
+/* ---------------- Typography -------------------------*/
+
+
+h5{
+    margin-bottom: 0.7rem;
+    color:#6b6b6b;
+}
+
+h2{
+    color: #121212;
+    margin-bottom: 0.7rem;
+}
+h2:hover, h2:focus{
+    color:#f4d04e;
+    transform:scale(1.01);
+    cursor: pointer;
+}
+
+/* -------------------------- Profile ------------------*/
+
+
+.Profile-image{
+    width: 30px;
+}
+.profile{
+    display: flex;
+    gap: 13px;
+    margin-top: 1rem;
+}
+.profile p{
+    margin-top: 0.4rem;
+    font-weight: 800;
+    color: #121212;
+}
+.main-text{
+    color:#6b6b6b;
+}
+
+
+
+
