@@ -13,10 +13,10 @@ body{
 }
 
 :root{
-    --Yellow: hsl(47, 88%, 63%) - #f4d04e;
-    --White-color: hsl(0, 0%, 100%) - #ffffff;
-    --Gray-500: hsl(0, 0%, 42%) - #6b6b6b;
-    --Gray-950: hsl(0, 0%, 7%) - #121212;
+    --Yellow: hsl(47, 88%, 63%);
+    --White-color: hsl(0, 0%, 100%);
+    --Gray-500: hsl(0, 0%, 42%);
+    --Gray-950: hsl(0, 0%, 7%);
 }
 
 
