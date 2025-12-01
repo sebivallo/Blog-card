@@ -23,7 +23,7 @@ body{
 /* ---------------- General -------------------------*/
 
 .container{
-    background-color: var(--White-color);
+    background-color: white;
     padding: 1.2rem;
     max-width: 375px;
     border-radius: 1.5rem;
