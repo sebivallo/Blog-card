@@ -1,4 +1,3 @@
-[style-guide.md](https://github.com/user-attachments/files/23861060/style-guide.md)
 # Front-end Style Guide
 
 ## Layout
